@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class Loader {
-    public static short size = 9;
+    public static short size = 2;
     public static int[][] ints = new int[size][];
 
     public static void main(String[] args) {
